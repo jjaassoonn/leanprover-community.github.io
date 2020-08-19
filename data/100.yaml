@@ -205,6 +205,10 @@
   author : Sander R. Dahmen (finite) and Johannes Hölzl (infinite)
 67:
   title  : e is Transcendental
+  links  :
+    result: https://github.com/jjaassoonn/transcendental/blob/966a413313e8fe52f70b6dfec6fdd2d0ad2509e5/src/e_transcendental.lean#L1224
+    website: https://jjaassoonn.github.io/transcendental/
+  author : Jujian Zhang
 68:
   title  : Sum of an arithmetic series
   decl   : finset.sum_range_id
